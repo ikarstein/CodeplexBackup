@@ -1,0 +1,1 @@
+This folder contains some Codeplex archives from other persons than me. Because I have referenced them on my blog (blog.kenaro.com (before: ikarstein.wordpress.com)).
